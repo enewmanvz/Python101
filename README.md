@@ -1,6 +1,6 @@
 ![PY101-img](https://user-images.githubusercontent.com/94469645/191622296-d4b81873-f8a5-4346-b27b-7b6db0aef98f.JPG)
 
-# Python101
+# Python101 For Beginners
 
 ####
 # About Python 101 
