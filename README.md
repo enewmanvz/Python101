@@ -13,7 +13,7 @@ My goal is to eventually take some of these basic commands using Python to build
 # Heroku PaaS: 
 
 
-# Our Mission
+# My Mission
 To to share the experience and basic commands used to learn Python:
 
 Increase public awareness of the opportuntiy to learn basic Python for beginners.
